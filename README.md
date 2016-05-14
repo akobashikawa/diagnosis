@@ -8,7 +8,7 @@ Mucho del proceso se resolvía mentalmente, gracias a la experiencia de los part
 
 Qué tal si hubiera una aplicación que facilitara esa mecánica.
 
-Imágine una tablet, con un panel superior representando el cuerpo humano, y uno inferior con una lista de todas las enfermedades disponibles en la base de datos.
+Imaginé una tablet, con un panel superior representando el cuerpo humano, y uno inferior con una lista de todas las enfermedades disponibles en la base de datos.
 
 En el panel que muestra el cuerpo, es posible navegar, acercarse y alejarse hasta encontrar la parte involucrada en un síntoma. Al seleccionar la parte, en el panel inferior, la lista de enfermedades se reduce para mostrar solo aquellas que tienen involucrada la parte seleccionada.
 
